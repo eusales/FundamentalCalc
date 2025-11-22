@@ -1,5 +1,6 @@
-## 🎓 Projeto de Conclusão de Curso: Calculadora Simples em C
+## FundamentalCalc
 
+🎓 Projeto de Conclusão de Curso: Calculadora Simples em C
 Este projeto é a implementação de uma **Calculadora de Linha de Comando (CLI)** básica, desenvolvida em linguagem C. Foi criado como **projeto final** para a conclusão de um curso de Linguagem C, com o objetivo principal de consolidar os fundamentos da programação, focando em **controle de fluxo**, **validação de entrada robusta** e manipulação eficiente de funções.
 
 ---
